@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\Test::testCanFizzBuzz":5,"Tests\\FizzbuzzControllerTest::testCanFizzBuzz":4},"times":{"Tests\\Test::testCanFizzBuzz":0.004,"Tests\\FizzbuzzControllerTest::testCanFizzBuzz":0.004,"Tests\\FizzbuzzControllerTest::testCanFizzBuzzDataType":0.014}}
